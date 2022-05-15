@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Utsav</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h1 align="left">Hi 👋, I'm Utsav</h1>
+<h3 align="left">A passionate Software developer</h3>
 
 - 🌱 I’m currently learning **JavaScript**
-- 📝 I occasionally write articles on CSS [https://utsavpatel51.hashnode.dev/](https://utsavpatel51.hashnode.dev/)
+- 📝 I occasionally write articles on [CSS](https://utsavpatel51.hashnode.dev/)
 - 📫 How to reach me **utsavpatel51@gmail.com**
-- 📄 Know about my experiences [https://utsavpatel51.github.io/resume/](https://utsavpatel51.github.io/resume/)
+- 📄 Know about my experiences [github.io](https://utsavpatel51.github.io/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,7 +47,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsavpatel51&show_icons=true&locale=en&layout=compact" alt="utsavpatel51" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utsavpatel51&show_icons=true&locale=en" alt="utsavpatel51" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsavpatel51&" alt="utsavpatel51" /></p>
