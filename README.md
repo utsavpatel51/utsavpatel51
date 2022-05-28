@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Software developer</h3>
 
 - 🌱 I’m currently learning **JavaScript**
-- 📝 I occasionally write articles on [CSS](https://utsavpatel51.hashnode.dev/)
+- 📝 I occasionally write articles on [hashnode](https://utsavpatel51.hashnode.dev/)
 - 📫 How to reach me **utsavpatel51@gmail.com**
 - 📄 Know about my experiences [github.io](https://utsavpatel51.github.io/resume/)
 
