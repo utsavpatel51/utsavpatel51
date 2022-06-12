@@ -46,7 +46,6 @@
 </a>
 </p>
 
----
 <h3 align="left">🌐 Hosted Project:</h3>
 <ul>
   <li><a href="https://covid-19-tracker-app-1.herokuapp.com/" target="_blank" rel="noreferrer">COVID-19-Tracker</a></li>
