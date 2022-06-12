@@ -46,4 +46,13 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsavpatel51&show_icons=true&locale=en&layout=compact" alt="utsavpatel51" /></p>
+---
+<h3 align="left">🌐 Hosted Project:</h3>
+<ul>
+  <li><a href="https://covid-19-tracker-app-1.herokuapp.com/" target="_blank" rel="noreferrer">COVID-19-Tracker</a></li>
+  <li><a href="https://storied-manatee-e32b78.netlify.app/project%20space/" target="_blank" rel="noreferrer">JS Project space</a></li>
+  <li><a href="https://react-task-web-app.netlify.app/" target="_blank" rel="noreferrer">Task App</a></li>
+</ul>
+<!--  Most Used Language block 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsavpatel51&show_icons=true&locale=en&layout=compact" alt="utsavpatel51" /></p> 
+-->
