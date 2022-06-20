@@ -1,4 +1,6 @@
-<h1 align="left">Hi 👋, I'm Utsav</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=000000&vCenter=true&height=24&lines=Hi+%F0%9F%91%8B%2C+I'm+Utsav)](https://git.io/typing-svg)
+---
+
 <h3 align="left">A passionate Software developer</h3>
 
 - 🌱 I’m currently learning **JavaScript**
